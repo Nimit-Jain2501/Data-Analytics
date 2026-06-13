@@ -1,0 +1,501 @@
+beneficiary_id,name,age,gender,state,program,education_level,enrollment_date,scholarship_amount,status
+BEN0001,Student 1,14,Female,Uttar Pradesh,Digital Literacy,Primary,2021-08-17,7500,Active
+BEN0002,Student 2,27,Female,Madhya Pradesh,Skill Development,Senior Secondary,2021-02-21,5000,Completed
+BEN0003,Student 3,22,Female,Bihar,Health & Nutrition,Primary,2022-07-18,0,Active
+BEN0004,Student 4,18,Female,Delhi,Career Guidance,Graduate,2022-05-17,3500,Completed
+BEN0005,Student 5,15,Female,Haryana,Health & Nutrition,Senior Secondary,2022-04-03,2000,Completed
+BEN0006,Student 6,14,Male,Maharashtra,Career Guidance,Vocational,2021-10-13,3500,Completed
+BEN0007,Student 7,26,Male,Maharashtra,Women Empowerment,Graduate,2021-07-29,5000,Completed
+BEN0008,Student 8,18,Male,Jharkhand,Health & Nutrition,Vocational,2021-06-28,5000,Completed
+BEN0009,Student 9,18,Female,Rajasthan,Skill Development,Secondary,2023-05-15,5000,Active
+BEN0010,Student 10,11,Male,Jharkhand,Skill Development,Graduate,2021-03-07,0,Active
+BEN0011,Student 11,15,Female,Bihar,Health & Nutrition,Secondary,2021-03-03,0,Dropped
+BEN0012,Student 12,10,Male,Delhi,Skill Development,Graduate,2021-07-11,5000,Active
+BEN0013,Student 13,9,Female,Bihar,Women Empowerment,Graduate,2022-03-24,0,Completed
+BEN0014,Student 14,19,Female,Bihar,Scholarship Program,Secondary,2022-04-22,2000,Dropped
+BEN0015,Student 15,13,Female,Maharashtra,Women Empowerment,Senior Secondary,2023-11-01,0,Active
+BEN0016,Student 16,9,Male,Delhi,Career Guidance,Primary,2021-02-24,3500,Completed
+BEN0017,Student 17,8,Female,Delhi,Women Empowerment,Vocational,2022-02-12,0,Active
+BEN0018,Student 18,19,Female,Uttar Pradesh,Career Guidance,Graduate,2023-05-10,3500,Completed
+BEN0019,Student 19,19,Male,Uttar Pradesh,Skill Development,Vocational,2022-03-28,10000,Active
+BEN0020,Student 20,24,Female,Maharashtra,Scholarship Program,Secondary,2023-07-09,0,Active
+BEN0021,Student 21,17,Female,Uttar Pradesh,Skill Development,Vocational,2022-07-24,0,Completed
+BEN0022,Student 22,23,Male,Madhya Pradesh,Digital Literacy,Secondary,2021-01-14,2000,Completed
+BEN0023,Student 23,22,Female,Bihar,Skill Development,Vocational,2021-11-23,7500,Completed
+BEN0024,Student 24,22,Male,Rajasthan,Career Guidance,Primary,2023-05-16,0,Active
+BEN0025,Student 25,26,Male,West Bengal,Skill Development,Primary,2022-11-28,2000,Active
+BEN0026,Student 26,19,Male,Bihar,Skill Development,Primary,2022-07-24,0,Completed
+BEN0027,Student 27,27,Male,Jharkhand,Scholarship Program,Primary,2021-11-15,5000,Active
+BEN0028,Student 28,10,Male,Bihar,Skill Development,Primary,2022-03-17,2000,Dropped
+BEN0029,Student 29,12,Female,Uttar Pradesh,Scholarship Program,Primary,2022-11-21,5000,Completed
+BEN0030,Student 30,26,Female,Punjab,Health & Nutrition,Secondary,2021-07-29,7500,Completed
+BEN0031,Student 31,14,Female,Delhi,Digital Literacy,Graduate,2021-07-09,0,Dropped
+BEN0032,Student 32,16,Female,Delhi,Scholarship Program,Vocational,2023-02-18,5000,Active
+BEN0033,Student 33,14,Female,Jharkhand,Career Guidance,Primary,2021-07-18,0,Completed
+BEN0034,Student 34,25,Female,Delhi,Health & Nutrition,Secondary,2023-01-06,7500,Active
+BEN0035,Student 35,11,Male,West Bengal,Scholarship Program,Secondary,2022-12-06,3500,Dropped
+BEN0036,Student 36,21,Male,Bihar,Scholarship Program,Secondary,2022-06-26,7500,Active
+BEN0037,Student 37,25,Female,Haryana,Digital Literacy,Graduate,2021-03-30,0,Completed
+BEN0038,Student 38,16,Male,Maharashtra,Career Guidance,Vocational,2023-07-30,0,Completed
+BEN0039,Student 39,9,Female,Madhya Pradesh,Women Empowerment,Graduate,2021-09-13,2000,Active
+BEN0040,Student 40,27,Male,Haryana,Women Empowerment,Senior Secondary,2023-02-15,2000,Active
+BEN0041,Student 41,22,Female,Bihar,Scholarship Program,Secondary,2021-06-11,0,Completed
+BEN0042,Student 42,14,Other,Punjab,Skill Development,Senior Secondary,2022-08-24,2000,Active
+BEN0043,Student 43,19,Female,Delhi,Career Guidance,Primary,2023-01-11,0,Active
+BEN0044,Student 44,15,Male,Bihar,Health & Nutrition,Primary,2022-01-29,2000,Active
+BEN0045,Student 45,22,Male,Uttar Pradesh,Skill Development,Graduate,2021-05-23,5000,Active
+BEN0046,Student 46,10,Female,Rajasthan,Skill Development,Vocational,2021-04-04,2000,Completed
+BEN0047,Student 47,21,Female,Delhi,Career Guidance,Senior Secondary,2022-04-12,0,Completed
+BEN0048,Student 48,24,Male,West Bengal,Scholarship Program,Vocational,2022-08-16,2000,Active
+BEN0049,Student 49,11,Female,West Bengal,Scholarship Program,Graduate,2021-06-13,0,Active
+BEN0050,Student 50,25,Male,Punjab,Scholarship Program,Primary,2022-04-22,10000,Active
+BEN0051,Student 51,15,Male,Delhi,Scholarship Program,Vocational,2021-07-26,0,Active
+BEN0052,Student 52,11,Male,Madhya Pradesh,Women Empowerment,Vocational,2023-02-18,5000,Active
+BEN0053,Student 53,9,Male,Bihar,Scholarship Program,Primary,2022-07-24,10000,Active
+BEN0054,Student 54,13,Other,Uttar Pradesh,Women Empowerment,Senior Secondary,2023-07-18,5000,Active
+BEN0055,Student 55,17,Female,Uttar Pradesh,Women Empowerment,Primary,2023-01-18,3500,Completed
+BEN0056,Student 56,11,Male,Bihar,Scholarship Program,Vocational,2021-11-30,5000,Active
+BEN0057,Student 57,25,Female,Maharashtra,Digital Literacy,Senior Secondary,2023-01-29,10000,Completed
+BEN0058,Student 58,19,Female,Rajasthan,Health & Nutrition,Senior Secondary,2022-12-29,3500,Completed
+BEN0059,Student 59,9,Female,Bihar,Skill Development,Primary,2022-03-06,3500,Completed
+BEN0060,Student 60,17,Male,Delhi,Women Empowerment,Vocational,2022-07-01,3500,Completed
+BEN0061,Student 61,11,Male,Delhi,Career Guidance,Graduate,2021-05-27,3500,Active
+BEN0062,Student 62,21,Male,Delhi,Career Guidance,Vocational,2021-12-17,3500,Completed
+BEN0063,Student 63,23,Male,Punjab,Health & Nutrition,Secondary,2023-12-30,2000,Completed
+BEN0064,Student 64,22,Male,Delhi,Career Guidance,Graduate,2022-05-17,0,Active
+BEN0065,Student 65,15,Female,Delhi,Digital Literacy,Senior Secondary,2021-12-01,0,Completed
+BEN0066,Student 66,21,Male,Uttar Pradesh,Career Guidance,Graduate,2023-08-05,0,Completed
+BEN0067,Student 67,15,Male,Jharkhand,Skill Development,Senior Secondary,2023-02-17,0,Active
+BEN0068,Student 68,23,Male,Punjab,Skill Development,Senior Secondary,2022-07-07,0,Active
+BEN0069,Student 69,20,Male,Jharkhand,Women Empowerment,Graduate,2022-03-26,3500,Active
+BEN0070,Student 70,25,Male,Maharashtra,Scholarship Program,Senior Secondary,2022-10-27,0,Completed
+BEN0071,Student 71,22,Female,Rajasthan,Digital Literacy,Senior Secondary,2021-04-25,5000,Completed
+BEN0072,Student 72,20,Male,Delhi,Women Empowerment,Secondary,2022-04-15,0,Dropped
+BEN0073,Student 73,16,Male,Punjab,Digital Literacy,Vocational,2021-03-07,0,Completed
+BEN0074,Student 74,22,Male,Maharashtra,Scholarship Program,Vocational,2022-10-09,5000,Active
+BEN0075,Student 75,20,Female,Madhya Pradesh,Career Guidance,Secondary,2023-04-02,3500,Active
+BEN0076,Student 76,8,Male,Maharashtra,Career Guidance,Graduate,2022-07-03,0,Completed
+BEN0077,Student 77,14,Male,Maharashtra,Scholarship Program,Primary,2021-05-16,7500,Completed
+BEN0078,Student 78,16,Male,Madhya Pradesh,Women Empowerment,Primary,2022-03-09,7500,Dropped
+BEN0079,Student 79,8,Female,Punjab,Scholarship Program,Primary,2022-10-07,2000,Active
+BEN0080,Student 80,19,Male,Haryana,Health & Nutrition,Secondary,2022-03-12,2000,Active
+BEN0081,Student 81,15,Female,Madhya Pradesh,Skill Development,Secondary,2023-10-20,10000,Completed
+BEN0082,Student 82,18,Female,Maharashtra,Women Empowerment,Senior Secondary,2023-03-22,3500,Completed
+BEN0083,Student 83,26,Male,Delhi,Digital Literacy,Primary,2023-07-29,3500,Completed
+BEN0084,Student 84,24,Female,Madhya Pradesh,Health & Nutrition,Graduate,2021-10-20,5000,Completed
+BEN0085,Student 85,15,Female,Delhi,Women Empowerment,Graduate,2022-06-27,0,Active
+BEN0086,Student 86,10,Male,Rajasthan,Scholarship Program,Primary,2021-10-13,2000,Completed
+BEN0087,Student 87,10,Male,Punjab,Scholarship Program,Primary,2022-05-21,0,Completed
+BEN0088,Student 88,8,Female,Rajasthan,Scholarship Program,Primary,2022-06-23,5000,Completed
+BEN0089,Student 89,12,Female,Bihar,Scholarship Program,Secondary,2023-05-28,3500,Completed
+BEN0090,Student 90,17,Other,Uttar Pradesh,Digital Literacy,Secondary,2023-03-29,3500,Active
+BEN0091,Student 91,14,Male,Delhi,Health & Nutrition,Secondary,2023-01-12,0,Active
+BEN0092,Student 92,16,Female,Maharashtra,Career Guidance,Vocational,2022-03-26,0,Dropped
+BEN0093,Student 93,14,Male,Delhi,Skill Development,Graduate,2021-10-11,2000,Active
+BEN0094,Student 94,16,Female,Delhi,Digital Literacy,Graduate,2023-11-10,5000,Dropped
+BEN0095,Student 95,15,Female,Bihar,Digital Literacy,Senior Secondary,2023-10-08,3500,Active
+BEN0096,Student 96,19,Male,Jharkhand,Career Guidance,Secondary,2021-07-06,0,Completed
+BEN0097,Student 97,9,Male,Maharashtra,Career Guidance,Vocational,2021-04-07,7500,Completed
+BEN0098,Student 98,8,Male,Delhi,Skill Development,Vocational,2021-08-13,0,Dropped
+BEN0099,Student 99,23,Male,Bihar,Skill Development,Graduate,2021-11-10,10000,Active
+BEN0100,Student 100,12,Male,Rajasthan,Career Guidance,Secondary,2021-11-24,0,Completed
+BEN0101,Student 101,10,Female,Madhya Pradesh,Scholarship Program,Senior Secondary,2023-05-15,3500,Active
+BEN0102,Student 102,19,Female,Madhya Pradesh,Digital Literacy,Secondary,2021-05-11,0,Active
+BEN0103,Student 103,15,Female,Uttar Pradesh,Women Empowerment,Primary,2023-02-28,7500,Completed
+BEN0104,Student 104,10,Female,Rajasthan,Skill Development,Secondary,2023-02-21,2000,Completed
+BEN0105,Student 105,8,Female,Bihar,Skill Development,Primary,2023-08-17,0,Dropped
+BEN0106,Student 106,10,Female,West Bengal,Career Guidance,Primary,2023-12-20,2000,Active
+BEN0107,Student 107,12,Female,Rajasthan,Health & Nutrition,Senior Secondary,2022-05-30,0,Active
+BEN0108,Student 108,22,Male,Bihar,Women Empowerment,Graduate,2021-01-24,0,Active
+BEN0109,Student 109,21,Male,Bihar,Women Empowerment,Secondary,2021-08-23,7500,Active
+BEN0110,Student 110,10,Male,Rajasthan,Skill Development,Primary,2022-07-01,2000,Active
+BEN0111,Student 111,8,Male,Jharkhand,Scholarship Program,Secondary,2022-11-28,5000,Completed
+BEN0112,Student 112,12,Male,Rajasthan,Health & Nutrition,Graduate,2021-08-17,3500,Active
+BEN0113,Student 113,21,Male,Madhya Pradesh,Women Empowerment,Graduate,2022-08-25,3500,Dropped
+BEN0114,Student 114,14,Female,Maharashtra,Skill Development,Vocational,2023-06-10,0,Dropped
+BEN0115,Student 115,16,Female,Rajasthan,Women Empowerment,Graduate,2021-11-20,0,Completed
+BEN0116,Student 116,22,Male,Bihar,Health & Nutrition,Senior Secondary,2023-07-19,5000,Dropped
+BEN0117,Student 117,22,Male,West Bengal,Health & Nutrition,Primary,2021-01-07,10000,Completed
+BEN0118,Student 118,17,Male,Bihar,Digital Literacy,Vocational,2022-06-24,0,Active
+BEN0119,Student 119,20,Female,Bihar,Career Guidance,Senior Secondary,2023-10-23,0,Active
+BEN0120,Student 120,26,Female,Punjab,Career Guidance,Secondary,2022-01-01,2000,Active
+BEN0121,Student 121,14,Female,Delhi,Skill Development,Primary,2023-11-06,10000,Completed
+BEN0122,Student 122,24,Male,Delhi,Health & Nutrition,Graduate,2021-08-06,0,Completed
+BEN0123,Student 123,27,Female,Bihar,Digital Literacy,Primary,2022-09-04,2000,Active
+BEN0124,Student 124,11,Female,Haryana,Digital Literacy,Secondary,2023-11-06,7500,Completed
+BEN0125,Student 125,12,Male,Delhi,Women Empowerment,Vocational,2022-02-12,0,Completed
+BEN0126,Student 126,14,Female,Delhi,Women Empowerment,Vocational,2021-11-10,0,Active
+BEN0127,Student 127,20,Female,Delhi,Digital Literacy,Vocational,2023-02-05,3500,Dropped
+BEN0128,Student 128,22,Female,Delhi,Women Empowerment,Graduate,2021-11-27,7500,Active
+BEN0129,Student 129,18,Male,Delhi,Health & Nutrition,Senior Secondary,2023-12-23,0,Active
+BEN0130,Student 130,11,Female,Bihar,Scholarship Program,Senior Secondary,2021-01-02,2000,Completed
+BEN0131,Student 131,20,Female,Rajasthan,Health & Nutrition,Primary,2022-10-26,2000,Active
+BEN0132,Student 132,14,Female,Uttar Pradesh,Digital Literacy,Graduate,2023-09-28,2000,Completed
+BEN0133,Student 133,26,Female,Bihar,Digital Literacy,Vocational,2021-02-09,3500,Active
+BEN0134,Student 134,9,Female,Delhi,Health & Nutrition,Vocational,2021-08-18,2000,Active
+BEN0135,Student 135,17,Other,Uttar Pradesh,Women Empowerment,Secondary,2023-01-14,2000,Dropped
+BEN0136,Student 136,20,Female,Rajasthan,Women Empowerment,Secondary,2022-09-22,2000,Active
+BEN0137,Student 137,13,Female,Maharashtra,Career Guidance,Vocational,2022-05-06,3500,Active
+BEN0138,Student 138,19,Female,Delhi,Digital Literacy,Vocational,2021-04-29,3500,Active
+BEN0139,Student 139,19,Male,Bihar,Skill Development,Graduate,2022-05-09,7500,Dropped
+BEN0140,Student 140,27,Female,Uttar Pradesh,Career Guidance,Senior Secondary,2021-06-11,0,Active
+BEN0141,Student 141,18,Female,West Bengal,Women Empowerment,Secondary,2021-06-25,5000,Active
+BEN0142,Student 142,14,Female,Maharashtra,Health & Nutrition,Senior Secondary,2023-09-23,5000,Active
+BEN0143,Student 143,8,Female,Rajasthan,Women Empowerment,Graduate,2021-05-22,0,Active
+BEN0144,Student 144,8,Male,Uttar Pradesh,Health & Nutrition,Vocational,2023-12-27,2000,Completed
+BEN0145,Student 145,27,Female,Haryana,Career Guidance,Senior Secondary,2021-09-15,2000,Completed
+BEN0146,Student 146,20,Female,Delhi,Digital Literacy,Vocational,2021-09-20,0,Active
+BEN0147,Student 147,16,Female,Delhi,Women Empowerment,Vocational,2023-09-01,2000,Completed
+BEN0148,Student 148,10,Female,Bihar,Health & Nutrition,Primary,2021-12-05,0,Active
+BEN0149,Student 149,14,Female,Delhi,Digital Literacy,Senior Secondary,2022-06-27,0,Dropped
+BEN0150,Student 150,13,Female,Punjab,Skill Development,Senior Secondary,2023-12-17,5000,Dropped
+BEN0151,Student 151,15,Male,Jharkhand,Health & Nutrition,Vocational,2023-05-17,0,Active
+BEN0152,Student 152,16,Male,Uttar Pradesh,Career Guidance,Graduate,2022-03-10,5000,Completed
+BEN0153,Student 153,12,Female,Rajasthan,Skill Development,Primary,2022-02-16,3500,Completed
+BEN0154,Student 154,8,Male,Punjab,Skill Development,Vocational,2022-10-01,7500,Active
+BEN0155,Student 155,26,Male,West Bengal,Scholarship Program,Secondary,2023-03-29,3500,Active
+BEN0156,Student 156,17,Female,Madhya Pradesh,Women Empowerment,Secondary,2023-02-04,0,Active
+BEN0157,Student 157,19,Male,Haryana,Health & Nutrition,Primary,2023-06-17,3500,Completed
+BEN0158,Student 158,22,Female,Punjab,Skill Development,Graduate,2023-11-26,0,Dropped
+BEN0159,Student 159,16,Female,Maharashtra,Scholarship Program,Vocational,2023-07-14,2000,Completed
+BEN0160,Student 160,27,Female,Delhi,Career Guidance,Senior Secondary,2021-09-05,7500,Completed
+BEN0161,Student 161,24,Male,Bihar,Digital Literacy,Primary,2022-05-23,0,Completed
+BEN0162,Student 162,24,Female,West Bengal,Health & Nutrition,Graduate,2022-04-06,2000,Completed
+BEN0163,Student 163,27,Male,Uttar Pradesh,Skill Development,Senior Secondary,2021-05-12,5000,Completed
+BEN0164,Student 164,19,Female,West Bengal,Women Empowerment,Secondary,2022-11-24,7500,Active
+BEN0165,Student 165,14,Male,Delhi,Scholarship Program,Secondary,2021-02-13,3500,Completed
+BEN0166,Student 166,9,Female,Delhi,Skill Development,Senior Secondary,2022-04-17,0,Completed
+BEN0167,Student 167,10,Female,Bihar,Women Empowerment,Primary,2022-03-28,3500,Active
+BEN0168,Student 168,24,Other,Delhi,Skill Development,Secondary,2021-01-15,0,Completed
+BEN0169,Student 169,12,Female,Punjab,Health & Nutrition,Vocational,2021-05-26,5000,Active
+BEN0170,Student 170,24,Male,Jharkhand,Health & Nutrition,Senior Secondary,2021-05-01,10000,Active
+BEN0171,Student 171,24,Female,Jharkhand,Health & Nutrition,Senior Secondary,2022-04-14,5000,Completed
+BEN0172,Student 172,24,Male,Madhya Pradesh,Career Guidance,Secondary,2021-05-19,7500,Active
+BEN0173,Student 173,9,Male,Uttar Pradesh,Career Guidance,Primary,2021-03-06,0,Active
+BEN0174,Student 174,9,Male,Rajasthan,Scholarship Program,Vocational,2022-11-08,5000,Active
+BEN0175,Student 175,12,Female,Rajasthan,Health & Nutrition,Primary,2021-05-26,5000,Completed
+BEN0176,Student 176,8,Female,Rajasthan,Women Empowerment,Graduate,2023-11-19,0,Active
+BEN0177,Student 177,8,Male,Uttar Pradesh,Skill Development,Graduate,2022-05-03,7500,Dropped
+BEN0178,Student 178,26,Female,Rajasthan,Digital Literacy,Secondary,2022-07-25,0,Active
+BEN0179,Student 179,9,Male,Bihar,Women Empowerment,Secondary,2023-09-22,3500,Dropped
+BEN0180,Student 180,19,Male,Punjab,Career Guidance,Secondary,2022-03-15,5000,Dropped
+BEN0181,Student 181,13,Male,West Bengal,Career Guidance,Graduate,2021-09-28,3500,Active
+BEN0182,Student 182,11,Male,Bihar,Women Empowerment,Primary,2023-08-27,0,Active
+BEN0183,Student 183,18,Female,Madhya Pradesh,Career Guidance,Primary,2022-05-13,3500,Active
+BEN0184,Student 184,24,Female,Maharashtra,Health & Nutrition,Secondary,2023-08-27,3500,Completed
+BEN0185,Student 185,13,Female,Delhi,Scholarship Program,Vocational,2023-04-14,7500,Active
+BEN0186,Student 186,12,Male,West Bengal,Skill Development,Primary,2022-01-25,2000,Active
+BEN0187,Student 187,27,Male,West Bengal,Scholarship Program,Graduate,2021-07-13,2000,Active
+BEN0188,Student 188,9,Male,Bihar,Skill Development,Senior Secondary,2021-07-18,5000,Active
+BEN0189,Student 189,13,Female,Bihar,Skill Development,Senior Secondary,2023-06-02,2000,Active
+BEN0190,Student 190,18,Male,Uttar Pradesh,Scholarship Program,Senior Secondary,2022-12-27,3500,Completed
+BEN0191,Student 191,23,Female,Bihar,Women Empowerment,Vocational,2023-05-18,3500,Dropped
+BEN0192,Student 192,23,Other,Delhi,Skill Development,Secondary,2023-04-22,7500,Active
+BEN0193,Student 193,8,Female,West Bengal,Scholarship Program,Graduate,2023-08-15,3500,Completed
+BEN0194,Student 194,16,Female,Delhi,Skill Development,Vocational,2021-04-21,3500,Active
+BEN0195,Student 195,13,Male,Uttar Pradesh,Digital Literacy,Graduate,2021-07-21,0,Completed
+BEN0196,Student 196,23,Female,Haryana,Women Empowerment,Graduate,2021-05-05,0,Dropped
+BEN0197,Student 197,10,Female,Maharashtra,Health & Nutrition,Secondary,2023-04-05,0,Completed
+BEN0198,Student 198,27,Female,Uttar Pradesh,Skill Development,Senior Secondary,2022-11-26,0,Dropped
+BEN0199,Student 199,11,Male,Uttar Pradesh,Digital Literacy,Secondary,2021-08-12,3500,Active
+BEN0200,Student 200,26,Male,Delhi,Health & Nutrition,Vocational,2022-05-25,5000,Completed
+BEN0201,Student 201,10,Male,Maharashtra,Health & Nutrition,Vocational,2022-01-28,3500,Completed
+BEN0202,Student 202,26,Female,Delhi,Skill Development,Vocational,2022-01-25,5000,Active
+BEN0203,Student 203,27,Female,Rajasthan,Scholarship Program,Secondary,2023-07-08,10000,Dropped
+BEN0204,Student 204,14,Female,Punjab,Skill Development,Graduate,2021-10-15,5000,Active
+BEN0205,Student 205,27,Male,Delhi,Digital Literacy,Graduate,2023-05-15,3500,Completed
+BEN0206,Student 206,16,Female,West Bengal,Health & Nutrition,Primary,2022-01-11,3500,Active
+BEN0207,Student 207,8,Male,Punjab,Skill Development,Vocational,2022-07-25,2000,Active
+BEN0208,Student 208,15,Male,Delhi,Scholarship Program,Graduate,2023-08-06,0,Completed
+BEN0209,Student 209,14,Male,West Bengal,Skill Development,Primary,2022-05-27,2000,Completed
+BEN0210,Student 210,25,Female,Rajasthan,Women Empowerment,Graduate,2021-06-04,7500,Active
+BEN0211,Student 211,15,Male,Haryana,Scholarship Program,Vocational,2023-06-27,5000,Active
+BEN0212,Student 212,8,Female,Rajasthan,Digital Literacy,Senior Secondary,2021-07-20,0,Completed
+BEN0213,Student 213,18,Female,Madhya Pradesh,Health & Nutrition,Vocational,2021-04-14,2000,Active
+BEN0214,Student 214,25,Male,Rajasthan,Skill Development,Secondary,2021-01-31,5000,Active
+BEN0215,Student 215,17,Female,West Bengal,Scholarship Program,Graduate,2021-07-11,0,Dropped
+BEN0216,Student 216,10,Male,Maharashtra,Women Empowerment,Graduate,2022-04-30,2000,Completed
+BEN0217,Student 217,14,Male,Rajasthan,Scholarship Program,Secondary,2021-12-07,7500,Active
+BEN0218,Student 218,23,Female,West Bengal,Career Guidance,Secondary,2023-04-13,2000,Completed
+BEN0219,Student 219,23,Male,Uttar Pradesh,Women Empowerment,Senior Secondary,2023-09-22,0,Completed
+BEN0220,Student 220,27,Female,Delhi,Digital Literacy,Graduate,2023-09-13,3500,Completed
+BEN0221,Student 221,24,Female,Delhi,Health & Nutrition,Graduate,2022-03-14,7500,Active
+BEN0222,Student 222,9,Female,Uttar Pradesh,Digital Literacy,Senior Secondary,2023-04-02,3500,Active
+BEN0223,Student 223,8,Female,Uttar Pradesh,Skill Development,Primary,2021-05-01,0,Active
+BEN0224,Student 224,23,Female,Haryana,Scholarship Program,Senior Secondary,2021-12-04,2000,Active
+BEN0225,Student 225,19,Female,Delhi,Career Guidance,Vocational,2023-02-16,2000,Completed
+BEN0226,Student 226,12,Female,Maharashtra,Women Empowerment,Graduate,2021-01-05,3500,Active
+BEN0227,Student 227,12,Male,Delhi,Women Empowerment,Secondary,2023-03-11,5000,Completed
+BEN0228,Student 228,16,Male,West Bengal,Scholarship Program,Vocational,2022-06-28,0,Active
+BEN0229,Student 229,16,Female,Punjab,Career Guidance,Graduate,2023-07-21,7500,Active
+BEN0230,Student 230,10,Female,Bihar,Scholarship Program,Senior Secondary,2022-08-08,0,Completed
+BEN0231,Student 231,26,Male,West Bengal,Skill Development,Vocational,2023-05-17,2000,Active
+BEN0232,Student 232,23,Female,Delhi,Digital Literacy,Graduate,2023-09-24,0,Active
+BEN0233,Student 233,23,Male,Jharkhand,Women Empowerment,Primary,2021-11-14,2000,Completed
+BEN0234,Student 234,10,Female,Uttar Pradesh,Skill Development,Primary,2022-01-24,3500,Active
+BEN0235,Student 235,27,Male,Haryana,Digital Literacy,Secondary,2022-08-31,3500,Completed
+BEN0236,Student 236,8,Male,Delhi,Skill Development,Graduate,2022-03-22,0,Completed
+BEN0237,Student 237,27,Male,Rajasthan,Career Guidance,Primary,2021-04-30,3500,Active
+BEN0238,Student 238,18,Female,Maharashtra,Women Empowerment,Senior Secondary,2021-05-05,0,Completed
+BEN0239,Student 239,24,Female,Uttar Pradesh,Scholarship Program,Graduate,2022-10-05,5000,Active
+BEN0240,Student 240,15,Male,Delhi,Scholarship Program,Senior Secondary,2021-04-28,7500,Active
+BEN0241,Student 241,11,Female,Delhi,Digital Literacy,Senior Secondary,2021-04-13,2000,Active
+BEN0242,Student 242,13,Male,Uttar Pradesh,Health & Nutrition,Primary,2023-09-04,3500,Active
+BEN0243,Student 243,15,Female,Rajasthan,Career Guidance,Graduate,2023-10-27,2000,Dropped
+BEN0244,Student 244,27,Male,Delhi,Digital Literacy,Vocational,2023-12-24,0,Active
+BEN0245,Student 245,10,Male,Uttar Pradesh,Health & Nutrition,Primary,2021-11-19,2000,Active
+BEN0246,Student 246,23,Female,Delhi,Skill Development,Primary,2021-04-27,5000,Active
+BEN0247,Student 247,10,Other,Jharkhand,Career Guidance,Graduate,2023-11-07,3500,Completed
+BEN0248,Student 248,25,Female,Delhi,Skill Development,Graduate,2021-06-14,0,Active
+BEN0249,Student 249,21,Female,Uttar Pradesh,Women Empowerment,Senior Secondary,2022-01-16,5000,Active
+BEN0250,Student 250,25,Female,Delhi,Career Guidance,Graduate,2021-05-21,3500,Completed
+BEN0251,Student 251,9,Male,Bihar,Health & Nutrition,Senior Secondary,2021-05-20,5000,Active
+BEN0252,Student 252,10,Other,West Bengal,Women Empowerment,Primary,2022-04-27,3500,Active
+BEN0253,Student 253,23,Female,Bihar,Scholarship Program,Secondary,2023-04-07,3500,Active
+BEN0254,Student 254,16,Female,Delhi,Health & Nutrition,Vocational,2021-09-03,0,Active
+BEN0255,Student 255,11,Female,Maharashtra,Digital Literacy,Primary,2022-05-20,0,Completed
+BEN0256,Student 256,8,Female,Jharkhand,Scholarship Program,Graduate,2021-03-23,10000,Active
+BEN0257,Student 257,11,Female,Delhi,Scholarship Program,Vocational,2021-06-17,0,Active
+BEN0258,Student 258,8,Female,Jharkhand,Digital Literacy,Secondary,2023-05-09,10000,Active
+BEN0259,Student 259,21,Female,Haryana,Career Guidance,Secondary,2023-12-07,3500,Completed
+BEN0260,Student 260,23,Male,Delhi,Scholarship Program,Senior Secondary,2022-10-10,0,Completed
+BEN0261,Student 261,27,Female,Jharkhand,Health & Nutrition,Vocational,2022-06-19,0,Active
+BEN0262,Student 262,15,Female,Maharashtra,Women Empowerment,Senior Secondary,2022-02-23,0,Completed
+BEN0263,Student 263,14,Male,Bihar,Scholarship Program,Primary,2022-10-06,7500,Completed
+BEN0264,Student 264,10,Female,Delhi,Health & Nutrition,Vocational,2022-05-04,2000,Completed
+BEN0265,Student 265,24,Female,Delhi,Skill Development,Primary,2022-06-28,2000,Completed
+BEN0266,Student 266,8,Female,West Bengal,Health & Nutrition,Senior Secondary,2023-03-22,2000,Active
+BEN0267,Student 267,23,Female,Punjab,Women Empowerment,Vocational,2021-09-26,0,Active
+BEN0268,Student 268,19,Male,Madhya Pradesh,Health & Nutrition,Senior Secondary,2022-09-07,2000,Active
+BEN0269,Student 269,26,Female,Bihar,Digital Literacy,Vocational,2023-07-26,0,Active
+BEN0270,Student 270,21,Female,Madhya Pradesh,Women Empowerment,Senior Secondary,2022-10-10,5000,Dropped
+BEN0271,Student 271,13,Male,Rajasthan,Career Guidance,Secondary,2021-05-29,2000,Active
+BEN0272,Student 272,13,Female,Bihar,Skill Development,Senior Secondary,2021-01-20,2000,Active
+BEN0273,Student 273,20,Male,Delhi,Digital Literacy,Secondary,2023-07-28,2000,Completed
+BEN0274,Student 274,26,Female,Jharkhand,Career Guidance,Senior Secondary,2021-07-24,2000,Active
+BEN0275,Student 275,15,Female,Uttar Pradesh,Health & Nutrition,Vocational,2021-05-31,10000,Active
+BEN0276,Student 276,9,Female,Jharkhand,Women Empowerment,Vocational,2022-03-13,3500,Active
+BEN0277,Student 277,8,Male,Uttar Pradesh,Skill Development,Vocational,2023-11-03,0,Active
+BEN0278,Student 278,22,Female,Delhi,Digital Literacy,Graduate,2022-06-28,3500,Completed
+BEN0279,Student 279,8,Male,Delhi,Career Guidance,Primary,2021-09-29,0,Active
+BEN0280,Student 280,12,Male,Bihar,Career Guidance,Vocational,2022-12-16,0,Active
+BEN0281,Student 281,23,Male,Haryana,Skill Development,Secondary,2021-05-21,10000,Active
+BEN0282,Student 282,26,Male,Delhi,Health & Nutrition,Vocational,2022-05-16,5000,Active
+BEN0283,Student 283,11,Female,West Bengal,Skill Development,Graduate,2023-01-27,10000,Completed
+BEN0284,Student 284,10,Female,Rajasthan,Career Guidance,Secondary,2022-08-07,2000,Active
+BEN0285,Student 285,24,Female,Jharkhand,Scholarship Program,Graduate,2021-11-20,3500,Active
+BEN0286,Student 286,24,Male,Uttar Pradesh,Digital Literacy,Secondary,2023-06-17,0,Dropped
+BEN0287,Student 287,19,Female,West Bengal,Skill Development,Senior Secondary,2022-09-12,0,Completed
+BEN0288,Student 288,21,Female,Jharkhand,Career Guidance,Primary,2023-12-20,5000,Active
+BEN0289,Student 289,13,Male,Uttar Pradesh,Health & Nutrition,Primary,2021-01-17,2000,Completed
+BEN0290,Student 290,10,Female,Delhi,Career Guidance,Graduate,2022-09-06,5000,Completed
+BEN0291,Student 291,16,Other,West Bengal,Health & Nutrition,Primary,2021-08-01,5000,Completed
+BEN0292,Student 292,12,Male,Punjab,Skill Development,Graduate,2021-10-03,0,Active
+BEN0293,Student 293,24,Male,Delhi,Health & Nutrition,Graduate,2022-06-26,3500,Dropped
+BEN0294,Student 294,21,Female,Maharashtra,Women Empowerment,Graduate,2021-08-25,3500,Active
+BEN0295,Student 295,10,Female,Haryana,Women Empowerment,Primary,2021-08-08,0,Active
+BEN0296,Student 296,8,Male,West Bengal,Women Empowerment,Graduate,2021-11-15,5000,Active
+BEN0297,Student 297,27,Female,Punjab,Scholarship Program,Primary,2022-07-12,3500,Active
+BEN0298,Student 298,8,Female,Jharkhand,Skill Development,Graduate,2022-08-01,0,Completed
+BEN0299,Student 299,10,Female,Bihar,Career Guidance,Vocational,2022-03-08,3500,Active
+BEN0300,Student 300,25,Female,Uttar Pradesh,Career Guidance,Graduate,2022-12-04,10000,Active
+BEN0301,Student 301,17,Female,Uttar Pradesh,Scholarship Program,Secondary,2022-02-21,0,Completed
+BEN0302,Student 302,10,Male,Maharashtra,Health & Nutrition,Graduate,2022-06-25,5000,Active
+BEN0303,Student 303,15,Male,Maharashtra,Scholarship Program,Senior Secondary,2023-11-02,0,Active
+BEN0304,Student 304,21,Female,Uttar Pradesh,Health & Nutrition,Graduate,2023-09-28,5000,Active
+BEN0305,Student 305,25,Female,West Bengal,Health & Nutrition,Secondary,2022-05-30,5000,Active
+BEN0306,Student 306,22,Male,Maharashtra,Digital Literacy,Secondary,2021-04-15,2000,Active
+BEN0307,Student 307,9,Female,Rajasthan,Career Guidance,Primary,2021-07-09,2000,Completed
+BEN0308,Student 308,17,Female,Bihar,Women Empowerment,Vocational,2023-05-18,5000,Active
+BEN0309,Student 309,9,Female,Rajasthan,Health & Nutrition,Graduate,2022-07-21,2000,Active
+BEN0310,Student 310,24,Female,Delhi,Digital Literacy,Primary,2021-04-01,5000,Completed
+BEN0311,Student 311,15,Female,Uttar Pradesh,Career Guidance,Vocational,2021-01-08,0,Completed
+BEN0312,Student 312,8,Female,Delhi,Women Empowerment,Graduate,2022-11-15,7500,Active
+BEN0313,Student 313,16,Female,Delhi,Health & Nutrition,Senior Secondary,2021-09-25,5000,Active
+BEN0314,Student 314,18,Male,Bihar,Health & Nutrition,Graduate,2022-06-21,7500,Active
+BEN0315,Student 315,23,Female,Rajasthan,Scholarship Program,Secondary,2021-11-27,0,Active
+BEN0316,Student 316,14,Male,Delhi,Scholarship Program,Secondary,2023-06-24,3500,Active
+BEN0317,Student 317,17,Male,Jharkhand,Career Guidance,Senior Secondary,2023-05-26,3500,Active
+BEN0318,Student 318,10,Female,Uttar Pradesh,Women Empowerment,Primary,2021-01-20,2000,Dropped
+BEN0319,Student 319,25,Male,Haryana,Health & Nutrition,Vocational,2021-08-18,2000,Active
+BEN0320,Student 320,20,Male,Punjab,Career Guidance,Graduate,2021-06-04,0,Completed
+BEN0321,Student 321,14,Female,Delhi,Career Guidance,Secondary,2021-11-02,5000,Active
+BEN0322,Student 322,11,Male,Bihar,Skill Development,Primary,2021-03-15,3500,Completed
+BEN0323,Student 323,20,Male,Delhi,Scholarship Program,Senior Secondary,2023-01-27,0,Completed
+BEN0324,Student 324,27,Female,Rajasthan,Women Empowerment,Secondary,2021-10-31,3500,Completed
+BEN0325,Student 325,8,Female,Madhya Pradesh,Health & Nutrition,Senior Secondary,2023-05-31,2000,Active
+BEN0326,Student 326,15,Male,Uttar Pradesh,Career Guidance,Graduate,2021-09-19,0,Completed
+BEN0327,Student 327,21,Female,Rajasthan,Health & Nutrition,Vocational,2021-03-27,10000,Active
+BEN0328,Student 328,23,Female,Uttar Pradesh,Skill Development,Secondary,2022-09-24,7500,Completed
+BEN0329,Student 329,21,Female,Delhi,Women Empowerment,Secondary,2023-01-17,3500,Active
+BEN0330,Student 330,19,Female,Madhya Pradesh,Career Guidance,Graduate,2021-03-23,0,Active
+BEN0331,Student 331,26,Other,Uttar Pradesh,Health & Nutrition,Primary,2023-01-03,5000,Active
+BEN0332,Student 332,22,Female,Rajasthan,Scholarship Program,Vocational,2022-03-07,2000,Active
+BEN0333,Student 333,9,Female,Bihar,Skill Development,Secondary,2022-05-27,2000,Active
+BEN0334,Student 334,9,Female,Punjab,Women Empowerment,Vocational,2021-07-30,2000,Active
+BEN0335,Student 335,26,Male,Delhi,Skill Development,Secondary,2022-12-26,3500,Dropped
+BEN0336,Student 336,24,Male,Bihar,Scholarship Program,Vocational,2023-04-13,3500,Completed
+BEN0337,Student 337,27,Female,Maharashtra,Women Empowerment,Senior Secondary,2021-11-13,2000,Dropped
+BEN0338,Student 338,17,Female,Bihar,Skill Development,Secondary,2022-04-30,3500,Active
+BEN0339,Student 339,13,Female,Punjab,Digital Literacy,Vocational,2021-11-29,7500,Completed
+BEN0340,Student 340,22,Male,Maharashtra,Scholarship Program,Primary,2021-12-29,2000,Completed
+BEN0341,Student 341,18,Female,Madhya Pradesh,Scholarship Program,Senior Secondary,2023-04-25,5000,Completed
+BEN0342,Student 342,12,Male,Maharashtra,Scholarship Program,Senior Secondary,2021-02-20,7500,Completed
+BEN0343,Student 343,8,Female,Punjab,Digital Literacy,Primary,2022-01-03,2000,Active
+BEN0344,Student 344,15,Female,Haryana,Digital Literacy,Vocational,2022-11-12,2000,Completed
+BEN0345,Student 345,19,Female,Maharashtra,Health & Nutrition,Graduate,2023-04-24,3500,Active
+BEN0346,Student 346,19,Female,Maharashtra,Career Guidance,Primary,2022-05-24,3500,Active
+BEN0347,Student 347,12,Female,Delhi,Skill Development,Vocational,2022-07-01,5000,Active
+BEN0348,Student 348,14,Male,Delhi,Health & Nutrition,Primary,2021-11-23,2000,Dropped
+BEN0349,Student 349,11,Female,Rajasthan,Skill Development,Primary,2021-08-10,10000,Completed
+BEN0350,Student 350,13,Male,Delhi,Career Guidance,Secondary,2023-02-23,0,Dropped
+BEN0351,Student 351,20,Female,Bihar,Digital Literacy,Vocational,2021-03-21,0,Completed
+BEN0352,Student 352,27,Female,Uttar Pradesh,Career Guidance,Graduate,2023-08-22,3500,Active
+BEN0353,Student 353,22,Female,Uttar Pradesh,Digital Literacy,Secondary,2022-04-01,0,Active
+BEN0354,Student 354,10,Female,Jharkhand,Career Guidance,Primary,2022-02-13,0,Active
+BEN0355,Student 355,15,Female,Haryana,Health & Nutrition,Primary,2023-08-01,2000,Active
+BEN0356,Student 356,27,Female,Delhi,Women Empowerment,Primary,2022-12-18,0,Active
+BEN0357,Student 357,23,Male,Rajasthan,Health & Nutrition,Vocational,2022-09-18,0,Active
+BEN0358,Student 358,20,Male,West Bengal,Skill Development,Vocational,2022-04-12,10000,Active
+BEN0359,Student 359,25,Male,Delhi,Health & Nutrition,Secondary,2022-04-02,0,Dropped
+BEN0360,Student 360,17,Male,Jharkhand,Scholarship Program,Graduate,2021-02-18,5000,Active
+BEN0361,Student 361,26,Female,Uttar Pradesh,Skill Development,Secondary,2022-01-31,5000,Completed
+BEN0362,Student 362,24,Female,Uttar Pradesh,Career Guidance,Senior Secondary,2023-03-28,7500,Completed
+BEN0363,Student 363,26,Male,Punjab,Skill Development,Primary,2022-11-04,0,Active
+BEN0364,Student 364,12,Male,Uttar Pradesh,Women Empowerment,Primary,2022-07-25,7500,Active
+BEN0365,Student 365,16,Male,Maharashtra,Digital Literacy,Primary,2021-05-23,3500,Active
+BEN0366,Student 366,19,Female,Jharkhand,Career Guidance,Secondary,2022-07-26,3500,Active
+BEN0367,Student 367,8,Female,Delhi,Skill Development,Secondary,2022-12-21,3500,Completed
+BEN0368,Student 368,8,Male,Madhya Pradesh,Career Guidance,Primary,2023-11-10,5000,Active
+BEN0369,Student 369,22,Female,Punjab,Career Guidance,Secondary,2023-03-30,2000,Active
+BEN0370,Student 370,9,Female,Delhi,Career Guidance,Vocational,2022-11-10,5000,Active
+BEN0371,Student 371,23,Male,West Bengal,Digital Literacy,Vocational,2021-02-26,3500,Dropped
+BEN0372,Student 372,15,Female,Rajasthan,Health & Nutrition,Secondary,2021-08-25,5000,Completed
+BEN0373,Student 373,20,Female,Madhya Pradesh,Career Guidance,Primary,2022-06-19,10000,Completed
+BEN0374,Student 374,8,Male,Madhya Pradesh,Scholarship Program,Secondary,2022-01-01,0,Active
+BEN0375,Student 375,23,Male,Uttar Pradesh,Women Empowerment,Secondary,2022-06-28,10000,Completed
+BEN0376,Student 376,14,Male,Haryana,Digital Literacy,Secondary,2021-03-20,0,Completed
+BEN0377,Student 377,12,Male,Haryana,Skill Development,Senior Secondary,2021-08-11,0,Completed
+BEN0378,Student 378,10,Female,Madhya Pradesh,Digital Literacy,Vocational,2023-06-09,0,Dropped
+BEN0379,Student 379,19,Female,Jharkhand,Skill Development,Graduate,2022-12-09,2000,Active
+BEN0380,Student 380,23,Male,Madhya Pradesh,Digital Literacy,Graduate,2022-10-05,3500,Dropped
+BEN0381,Student 381,26,Male,Bihar,Skill Development,Senior Secondary,2023-06-13,0,Dropped
+BEN0382,Student 382,12,Male,Madhya Pradesh,Career Guidance,Secondary,2023-11-14,0,Active
+BEN0383,Student 383,21,Male,Rajasthan,Health & Nutrition,Senior Secondary,2021-08-25,7500,Active
+BEN0384,Student 384,12,Female,Rajasthan,Skill Development,Senior Secondary,2023-02-28,5000,Dropped
+BEN0385,Student 385,22,Male,Jharkhand,Skill Development,Primary,2022-01-25,5000,Active
+BEN0386,Student 386,24,Male,Bihar,Scholarship Program,Vocational,2022-06-06,7500,Active
+BEN0387,Student 387,21,Male,Delhi,Skill Development,Graduate,2021-04-01,5000,Dropped
+BEN0388,Student 388,27,Female,Delhi,Scholarship Program,Secondary,2023-06-13,0,Completed
+BEN0389,Student 389,12,Male,Bihar,Women Empowerment,Graduate,2021-01-04,2000,Active
+BEN0390,Student 390,19,Female,Maharashtra,Career Guidance,Graduate,2023-12-01,5000,Completed
+BEN0391,Student 391,23,Male,Rajasthan,Scholarship Program,Vocational,2022-02-08,0,Active
+BEN0392,Student 392,23,Female,Madhya Pradesh,Health & Nutrition,Graduate,2023-01-16,3500,Active
+BEN0393,Student 393,14,Female,Bihar,Career Guidance,Graduate,2023-06-03,0,Active
+BEN0394,Student 394,11,Male,Madhya Pradesh,Scholarship Program,Senior Secondary,2021-05-24,2000,Completed
+BEN0395,Student 395,8,Male,Uttar Pradesh,Career Guidance,Vocational,2022-11-08,3500,Active
+BEN0396,Student 396,12,Female,Bihar,Career Guidance,Primary,2022-10-05,3500,Completed
+BEN0397,Student 397,17,Female,Maharashtra,Career Guidance,Secondary,2021-09-13,3500,Completed
+BEN0398,Student 398,12,Female,West Bengal,Women Empowerment,Graduate,2022-09-08,3500,Active
+BEN0399,Student 399,11,Female,Bihar,Health & Nutrition,Secondary,2023-11-05,0,Completed
+BEN0400,Student 400,9,Female,Delhi,Digital Literacy,Primary,2022-09-26,0,Active
+BEN0401,Student 401,27,Female,Delhi,Digital Literacy,Secondary,2023-04-17,7500,Completed
+BEN0402,Student 402,17,Male,Delhi,Scholarship Program,Primary,2022-10-31,3500,Active
+BEN0403,Student 403,26,Female,Madhya Pradesh,Career Guidance,Senior Secondary,2023-04-05,0,Dropped
+BEN0404,Student 404,8,Male,Uttar Pradesh,Scholarship Program,Graduate,2022-08-29,5000,Active
+BEN0405,Student 405,12,Female,Rajasthan,Women Empowerment,Primary,2021-09-18,0,Active
+BEN0406,Student 406,20,Male,Bihar,Women Empowerment,Secondary,2022-01-28,2000,Completed
+BEN0407,Student 407,11,Male,Delhi,Skill Development,Graduate,2023-05-12,0,Active
+BEN0408,Student 408,23,Male,Bihar,Women Empowerment,Senior Secondary,2023-02-16,5000,Active
+BEN0409,Student 409,23,Female,Uttar Pradesh,Skill Development,Graduate,2021-12-23,3500,Completed
+BEN0410,Student 410,9,Male,Bihar,Health & Nutrition,Primary,2022-09-09,0,Completed
+BEN0411,Student 411,24,Male,Uttar Pradesh,Scholarship Program,Senior Secondary,2023-04-12,7500,Completed
+BEN0412,Student 412,27,Male,West Bengal,Health & Nutrition,Secondary,2021-01-01,2000,Active
+BEN0413,Student 413,19,Female,Delhi,Women Empowerment,Senior Secondary,2022-09-15,0,Completed
+BEN0414,Student 414,25,Other,Punjab,Health & Nutrition,Senior Secondary,2022-08-11,0,Active
+BEN0415,Student 415,10,Female,Bihar,Health & Nutrition,Vocational,2022-03-07,0,Completed
+BEN0416,Student 416,8,Female,West Bengal,Health & Nutrition,Senior Secondary,2023-05-31,0,Completed
+BEN0417,Student 417,8,Female,Madhya Pradesh,Women Empowerment,Senior Secondary,2022-10-22,3500,Active
+BEN0418,Student 418,26,Female,Maharashtra,Career Guidance,Graduate,2023-08-11,5000,Active
+BEN0419,Student 419,18,Male,Jharkhand,Health & Nutrition,Secondary,2023-06-24,3500,Active
+BEN0420,Student 420,12,Male,Rajasthan,Skill Development,Graduate,2023-06-25,0,Active
+BEN0421,Student 421,19,Male,Rajasthan,Women Empowerment,Graduate,2022-03-14,0,Active
+BEN0422,Student 422,10,Male,Rajasthan,Health & Nutrition,Primary,2023-11-13,0,Active
+BEN0423,Student 423,8,Male,Rajasthan,Career Guidance,Graduate,2023-08-28,2000,Completed
+BEN0424,Student 424,8,Female,Delhi,Women Empowerment,Vocational,2021-12-14,5000,Active
+BEN0425,Student 425,15,Male,Bihar,Digital Literacy,Vocational,2021-06-23,0,Dropped
+BEN0426,Student 426,17,Female,Madhya Pradesh,Career Guidance,Primary,2022-08-05,5000,Active
+BEN0427,Student 427,18,Female,Rajasthan,Skill Development,Secondary,2023-11-22,7500,Completed
+BEN0428,Student 428,19,Male,Jharkhand,Health & Nutrition,Secondary,2022-11-18,2000,Completed
+BEN0429,Student 429,20,Female,Madhya Pradesh,Digital Literacy,Graduate,2021-07-11,5000,Active
+BEN0430,Student 430,19,Female,Punjab,Digital Literacy,Graduate,2022-04-27,3500,Active
+BEN0431,Student 431,21,Male,Uttar Pradesh,Women Empowerment,Graduate,2022-09-28,3500,Completed
+BEN0432,Student 432,9,Female,Uttar Pradesh,Digital Literacy,Secondary,2022-04-06,3500,Active
+BEN0433,Student 433,26,Female,Bihar,Skill Development,Senior Secondary,2022-02-12,2000,Dropped
+BEN0434,Student 434,25,Female,Bihar,Skill Development,Vocational,2021-10-29,0,Active
+BEN0435,Student 435,10,Female,West Bengal,Scholarship Program,Senior Secondary,2021-02-20,2000,Dropped
+BEN0436,Student 436,24,Female,Uttar Pradesh,Skill Development,Senior Secondary,2021-04-05,0,Active
+BEN0437,Student 437,15,Female,Jharkhand,Career Guidance,Secondary,2022-05-17,3500,Completed
+BEN0438,Student 438,17,Male,Bihar,Digital Literacy,Senior Secondary,2023-09-01,0,Completed
+BEN0439,Student 439,9,Male,Madhya Pradesh,Skill Development,Primary,2021-05-30,7500,Completed
+BEN0440,Student 440,26,Male,Madhya Pradesh,Women Empowerment,Graduate,2023-07-22,5000,Active
+BEN0441,Student 441,16,Female,Uttar Pradesh,Scholarship Program,Primary,2023-04-29,2000,Completed
+BEN0442,Student 442,14,Male,Rajasthan,Digital Literacy,Vocational,2022-02-03,0,Active
+BEN0443,Student 443,11,Female,Bihar,Scholarship Program,Graduate,2023-02-26,7500,Completed
+BEN0444,Student 444,25,Female,Delhi,Digital Literacy,Senior Secondary,2023-10-10,5000,Active
+BEN0445,Student 445,20,Female,Bihar,Women Empowerment,Vocational,2023-03-30,5000,Completed
+BEN0446,Student 446,18,Other,Delhi,Scholarship Program,Graduate,2022-05-15,0,Active
+BEN0447,Student 447,11,Female,Bihar,Health & Nutrition,Senior Secondary,2021-10-30,2000,Completed
+BEN0448,Student 448,11,Female,Rajasthan,Career Guidance,Primary,2021-01-12,0,Completed
+BEN0449,Student 449,17,Male,Rajasthan,Career Guidance,Graduate,2021-08-07,0,Completed
+BEN0450,Student 450,12,Female,Madhya Pradesh,Digital Literacy,Senior Secondary,2023-05-21,5000,Active
+BEN0451,Student 451,16,Male,Delhi,Health & Nutrition,Primary,2022-03-25,5000,Active
+BEN0452,Student 452,10,Male,Madhya Pradesh,Scholarship Program,Vocational,2021-12-27,3500,Dropped
+BEN0453,Student 453,24,Female,Uttar Pradesh,Health & Nutrition,Vocational,2023-11-27,7500,Active
+BEN0454,Student 454,10,Female,Bihar,Health & Nutrition,Vocational,2023-08-10,3500,Active
+BEN0455,Student 455,23,Male,West Bengal,Scholarship Program,Vocational,2021-04-13,2000,Completed
+BEN0456,Student 456,11,Female,Delhi,Women Empowerment,Secondary,2022-05-26,2000,Completed
+BEN0457,Student 457,25,Female,Rajasthan,Health & Nutrition,Graduate,2021-09-06,7500,Active
+BEN0458,Student 458,24,Female,Rajasthan,Health & Nutrition,Graduate,2023-07-24,0,Completed
+BEN0459,Student 459,14,Female,Bihar,Women Empowerment,Secondary,2021-10-01,7500,Completed
+BEN0460,Student 460,12,Female,Uttar Pradesh,Health & Nutrition,Senior Secondary,2023-08-10,5000,Active
+BEN0461,Student 461,19,Other,Uttar Pradesh,Health & Nutrition,Senior Secondary,2023-12-24,0,Dropped
+BEN0462,Student 462,24,Female,West Bengal,Health & Nutrition,Vocational,2022-10-12,3500,Active
+BEN0463,Student 463,20,Female,Bihar,Career Guidance,Primary,2023-06-26,7500,Active
+BEN0464,Student 464,10,Female,Uttar Pradesh,Skill Development,Senior Secondary,2023-10-31,3500,Active
+BEN0465,Student 465,16,Female,Bihar,Women Empowerment,Primary,2023-05-24,7500,Active
+BEN0466,Student 466,24,Male,Madhya Pradesh,Health & Nutrition,Graduate,2023-07-03,7500,Dropped
+BEN0467,Student 467,24,Male,Delhi,Career Guidance,Primary,2021-11-22,2000,Active
+BEN0468,Student 468,27,Male,Bihar,Women Empowerment,Graduate,2023-08-31,2000,Active
+BEN0469,Student 469,23,Male,Rajasthan,Digital Literacy,Secondary,2023-07-11,7500,Active
+BEN0470,Student 470,20,Female,Haryana,Digital Literacy,Secondary,2022-06-15,3500,Completed
+BEN0471,Student 471,26,Female,Uttar Pradesh,Health & Nutrition,Vocational,2022-05-22,0,Completed
+BEN0472,Student 472,24,Female,Uttar Pradesh,Career Guidance,Senior Secondary,2022-07-22,0,Active
+BEN0473,Student 473,11,Male,Uttar Pradesh,Career Guidance,Vocational,2023-12-04,3500,Active
+BEN0474,Student 474,19,Female,Madhya Pradesh,Women Empowerment,Graduate,2023-09-20,7500,Completed
+BEN0475,Student 475,16,Female,Uttar Pradesh,Women Empowerment,Vocational,2022-05-05,5000,Active
+BEN0476,Student 476,26,Female,Rajasthan,Career Guidance,Primary,2022-07-17,3500,Active
+BEN0477,Student 477,19,Female,Jharkhand,Women Empowerment,Graduate,2023-06-20,0,Active
+BEN0478,Student 478,16,Female,Maharashtra,Career Guidance,Secondary,2021-06-08,0,Completed
+BEN0479,Student 479,14,Male,Bihar,Skill Development,Senior Secondary,2022-08-09,7500,Active
+BEN0480,Student 480,21,Female,West Bengal,Career Guidance,Graduate,2022-04-26,0,Active
+BEN0481,Student 481,27,Male,Rajasthan,Digital Literacy,Graduate,2022-07-11,0,Active
+BEN0482,Student 482,26,Male,Rajasthan,Women Empowerment,Primary,2022-11-19,0,Dropped
+BEN0483,Student 483,22,Female,Delhi,Career Guidance,Senior Secondary,2022-10-17,3500,Active
+BEN0484,Student 484,23,Male,Punjab,Career Guidance,Secondary,2021-06-15,7500,Completed
+BEN0485,Student 485,12,Female,Delhi,Women Empowerment,Graduate,2021-10-11,0,Active
+BEN0486,Student 486,10,Male,Uttar Pradesh,Skill Development,Graduate,2021-11-05,2000,Active
+BEN0487,Student 487,19,Female,Delhi,Skill Development,Primary,2022-04-19,3500,Completed
+BEN0488,Student 488,27,Male,Madhya Pradesh,Women Empowerment,Vocational,2023-02-24,10000,Active
+BEN0489,Student 489,11,Other,Uttar Pradesh,Scholarship Program,Secondary,2021-11-09,0,Completed
+BEN0490,Student 490,23,Female,Delhi,Women Empowerment,Senior Secondary,2022-03-15,2000,Dropped
+BEN0491,Student 491,14,Male,Delhi,Women Empowerment,Graduate,2021-05-12,2000,Completed
+BEN0492,Student 492,20,Female,Delhi,Skill Development,Graduate,2023-04-30,7500,Active
+BEN0493,Student 493,17,Other,Rajasthan,Skill Development,Secondary,2023-04-15,2000,Completed
+BEN0494,Student 494,14,Female,Maharashtra,Women Empowerment,Vocational,2022-11-09,0,Active
+BEN0495,Student 495,21,Male,Bihar,Women Empowerment,Graduate,2023-08-13,3500,Completed
+BEN0496,Student 496,12,Female,Bihar,Women Empowerment,Secondary,2023-05-02,5000,Completed
+BEN0497,Student 497,10,Female,Maharashtra,Skill Development,Primary,2021-05-08,0,Completed
+BEN0498,Student 498,18,Female,Delhi,Women Empowerment,Vocational,2022-02-28,7500,Active
+BEN0499,Student 499,18,Female,Uttar Pradesh,Women Empowerment,Senior Secondary,2023-05-11,0,Active
+BEN0500,Student 500,25,Male,Punjab,Health & Nutrition,Graduate,2023-03-09,3500,Active
